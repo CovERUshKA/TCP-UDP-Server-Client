@@ -1,11 +1,3 @@
-/**********************************************************************
-Name		: Example UDP Client
-Author		: Sloan Kelly
-Date		: 2017-12-16
-Purpose		: Example of a bare bones UDP client
-
-***********************************************************************/
-
 #include <iostream>
 #include <WS2tcpip.h>
 #include <Windows.h>
